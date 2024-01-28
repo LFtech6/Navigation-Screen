@@ -150,7 +150,7 @@ export default function App() {
 
 That's it! After completing these steps, you can run your project using the command:
 
-`npx expo start`## 
+`npx expo start`
 
 
 Enjoy using the Navigation-Screen by LFtech6! 
